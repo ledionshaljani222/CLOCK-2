@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: red;
+
+    position: absolute;
+
+    left: 40%;
+    top: 46%;
+
+    font-size: 50px;
+    letter-spacing: 5px;
+
+    font-family: 'Sixtyfour', sans-serif;
+}
